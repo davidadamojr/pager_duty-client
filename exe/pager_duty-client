@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+
+require "pager_duty/client"
